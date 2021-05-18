@@ -1,0 +1,6 @@
+$ spack --version
+0.16.1-1894-a2a29f8
+
+$ uname -a
+Linux c1cmp063.pax.tufts.edu 3.10.0-1127.el7.x86_64 #1 SMP Tue Feb 18 16:39:12 EST 2020 x86_64 x86_64 x86_64 GNU/Linux
+
